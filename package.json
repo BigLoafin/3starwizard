@@ -1,0 +1,15 @@
+{
+  "name": "3starwizard",
+  "version": "0.1.0",
+  "description": "Simple application to track CoC streaks",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
