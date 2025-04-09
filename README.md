@@ -1,11 +1,11 @@
-# Streak Tracker
+# 3starwizard
 
 This project is a simple web application that allows users to track their streaks. It provides a single-page interface where users can view their streaks, add new users, increment their streaks, and delete users.
 
 ## Project Structure
 
 ```
-streak-tracker
+3starwizard
 ├── src
 │   ├── server.js          # Entry point of the application
 │   ├── routes
@@ -36,17 +36,12 @@ streak-tracker
    git clone <repository-url>
    ```
 
-2. Navigate to the project directory:
-   ```
-   cd streak-tracker
-   ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
    ```
    npm install
    ```
 
-4. Start the server:
+3. Start the server:
    ```
    npm start
    ```
